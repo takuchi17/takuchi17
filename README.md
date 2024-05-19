@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=CHIHAYATAKU&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CHIHAYATAKU&theme=onedark)](https://github-profile-trophy.vercel.app/?username=CHIHAYATAKU&theme=tokyonight)
 ![CHIHAYATAKU's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHIHAYATAKU&show_icons=true&theme=radical)
