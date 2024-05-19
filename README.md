@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=CHIHAYATAKU&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
-<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/username=CHIHAYATAKU&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
-
+![CHIHAYATAKU's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHIHAYATAKU&show_icons=true&theme=radical)
