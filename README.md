@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 Welcome to CHIHAYATAKU GH!
+### I'll do my best!!
+---
 
 <!--
 **CHIHAYATAKU/CHIHAYATAKU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,23 +15,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div style="width: 90%; display: flex; justify-content: space-around;">
+<div style="color: white; padding: 20px; margin: 0; display: flex; justify-content: space-between; align-items: center; ">
+<div  style="display: flex; flex-direction: column; justify-content: space-between;align-items: center;">
+<div style="width: 100%; display: flex; flex-direction: column; justify-content: space-between; margin: 15px">
 <a href="https://github.com/CHIHAYATAKU/my-portfolio">
-  <img  align="center" width=45% src="https://github-readme-stats.vercel.app/api/pin/?username=CHIHAYATAKU&&theme=swift&repo=my-portfolio" />
+ <img  align="center" width=90% src="https://github-readme-stats.vercel.app/api/pin/?username=CHIHAYATAKU&&theme=maroongold&repo=my-portfolio" />
 </a>
 <a href="https://github.com/CHIHAYATAKU/QiitaAndZennArticlePoster">
-  <img  align="center" width=45% src="https://github-readme-stats.vercel.app/api/pin/?username=CHIHAYATAKU&&theme=swift&repo=QiitaAndZennArticlePoster" />
+ <img  align="center" width=90% src="https://github-readme-stats.vercel.app/api/pin/?username=CHIHAYATAKU&&theme=maroongold&repo=QiitaAndZennArticlePoster" />
 </a>
 </div>
+<div style="width: 100%; display: flex; flex-direction: column; justify-content: space-between; margin: 15px">
+ <img  align="center" width=90% src="https://github-readme-stats.vercel.app/api/top-langs?username=CHIHAYATAKU&show_icons=true&&theme=maroongold&locale=en&layout=compact" />
+</div>
+<div style="width: 100%; display: flex; flex-direction: column; justify-content: space-between; margin: 15px">
+ <img  align="center" width=90% src="https://github-readme-stats.vercel.app/api?username=CHIHAYATAKU&show_icons=true&theme=maroongold" />
+</div>
+</div>
 
-![CHIHAYATAKU's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHIHAYATAKU&show_icons=true&theme=swift)
-[![trophy](https://github-profile-trophy.vercel.app/?username=CHIHAYATAKU&theme=oldie)](https://github-profile-trophy.vercel.app/?username=CHIHAYATAKU&theme=oldie)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=CHIHAYATAKU&show_icons=true&&theme=swift&locale=en&layout=compact)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CHIHAYATAKU" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CHIHAYATAKU&layout=compact&langs_count=8&card_width=320" />
-</a>
+  <img  align="center" width=40% src="https://github-profile-trophy.vercel.app/?username=CHIHAYATAKU&theme=dark_lover&column=2&row=9&margin-w=15&margin-h=15" />
+</div>
