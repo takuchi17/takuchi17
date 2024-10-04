@@ -1,3 +1,4 @@
+
 # Hi there 👋 Welcome to CHIHAYATAKU GH!  
 I'll do my best!!
 
@@ -11,7 +12,7 @@ I'll do my best!!
     </a>
   </div>
   
-  <img  align="center" width="300px" src="https://github-profile-trophy.vercel.app/?username=CHIHAYATAKU&theme=dark_lover&column=2&row=9&margin-w=15&margin-h=15" />
+  <img  align="center" width="150px" src="https://github-profile-trophy.vercel.app/?username=CHIHAYATAKU&theme=dark_lover&column=2&row=9&margin-w=15&margin-h=15" />
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=CHIHAYATAKU&show_icons=true&theme=maroongold&locale=en&layout=compact)  
