@@ -1,6 +1,3 @@
-### Hi there 👋 Welcome to CHIHAYATAKU GH!
-### I'll do my best!!
----
 
 <!--
 **CHIHAYATAKU/CHIHAYATAKU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<html>
+<h1>Hi there 👋 Welcome to CHIHAYATAKU GH!</br>
+I'll do my best!!
+</h1>
 <div style="color: white; padding: 20px; margin: 0; display: flex; justify-content: space-between; align-items: center; ">
 <div  style="display: flex; flex-direction: column; justify-content: space-between;align-items: center;">
 <div style="width: 100%; display: flex; flex-direction: column; justify-content: space-between; margin: 15px">
@@ -35,3 +36,4 @@ Here are some ideas to get you started:
 
   <img  align="center" width=40% src="https://github-profile-trophy.vercel.app/?username=CHIHAYATAKU&theme=dark_lover&column=2&row=9&margin-w=15&margin-h=15" />
 </div>
+</html>
